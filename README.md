@@ -11,7 +11,7 @@ Repositório destinado as matérias do semestre
 
 <p align="center">
   <a href="https://github.com/jhonathandosreis">
-    <img alt="Jhonathan dos Reis" src="https://img.shields.io/badge/Jhonathan dos Reis-M.3-blue">
+    <img alt="Jhonathan dos Reis" src="https://img.shields.io/badge/Jhonathan dos Reis-M.4-blue">
   </a>
 </p>
 <br>
@@ -35,7 +35,7 @@ Cada diretório no repositório é um acrônimo do nome da disciplina.
 ---  -> ---
 
 ```
-- Os prefixos dos nomes dos arquivos de cada diretório são a data da aula ou da produção do documento, no formato yyyymmdd. Caso necessário, poderão existir subdiretorios com nomes de assuntos e/ou atividades específicas. 
+ Os prefixos dos nomes dos arquivos de cada diretório são a data da aula ou da produção do documento, no formato yyyymmdd. Caso necessário, poderão existir subdiretorios com nomes de assuntos e/ou atividades específicas. 
 
 ---
 ### HORÁRIOS DE AULAS
