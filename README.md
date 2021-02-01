@@ -27,12 +27,15 @@ Repositório destinado as matérias do semestre
 Cada diretório no repositório é um acrônimo do nome da disciplina.
 
 ```
----  -> ---
---   -> --
---   -> --
----  -> ---
---   -> --
----  -> ---
+dsw  -> Desenvolvimento de Sistemas para Web
+dsd  -> Desenvolvimento de Sistemas Distribuídos
+ts   -> Teste de Software
+ps1  -> Projeto de Software 1
+te   -> Tecnologias Emergentes (Optativa)
+mcs  -> Manutenção e Configuração de Software
+gdb  -> Gerenciamento de Banco de Dados
+pds1 -> Processo de Desenvolvimento de Software 1
+ihm  -> Interface Homem Computador
 
 ```
  Os prefixos dos nomes dos arquivos de cada diretório são a data da aula ou da produção do documento, no formato yyyymmdd. Caso necessário, poderão existir subdiretorios com nomes de assuntos e/ou atividades específicas. 
@@ -44,8 +47,8 @@ Cada diretório no repositório é um acrônimo do nome da disciplina.
 +-------------------------------------------------+
 | SEGUNDA |  TERÇA  | QUARTA  | QUINTA  |  SEXTA  |
 +-------------------------------------------------+
-|   --    |   ---   |   ---   |   --    |   --   |
+|   dsw   |   dsd   |   ts   |   ps1    |   te    |
 +-------------------------------------------------+
-|   --    |   ---   |   ---   |   --    |   --    |
+|   dsw   |   mcs   |   gbd  |   pds1  |   ihm    |
 +-------------------------------------------------+
 ```
