@@ -18,7 +18,7 @@ Repositório destinado as matérias do semestre
 
 ## 📚 Contexto
 
-- SEMESTRE LETIVO: 2021/4
+- SEMESTRE LETIVO: 2021/1
 
 ---
 
