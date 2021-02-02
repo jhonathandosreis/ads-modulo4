@@ -33,7 +33,7 @@ ts   -> Teste de Software
 ps1  -> Projeto de Software 1
 te   -> Tecnologias Emergentes (Optativa)
 mcs  -> Manutenção e Configuração de Software
-gdb  -> Gerenciamento de Banco de Dados
+gbd  -> Gerenciamento de Banco de Dados
 pds1 -> Processo de Desenvolvimento de Software 1
 ihm  -> Interface Homem Computador
 
