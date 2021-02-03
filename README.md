@@ -10,8 +10,8 @@ REPOSITÓRIO DE MATÉRIAS
 </h4>
 
 <p align="center">
-  <a href="https://github.com/Viniciusalopes">
-    <img alt="Viniciusalopes" src="https://img.shields.io/badge/Viniciusalopes-Tecnologia-red">
+  <a href="https://github.com/jhonathandosreis">
+    <img alt="jhonathandosreis" src="https://img.shields.io/badge/Jhonathan-Tecnologia-red">
   </a>
 </p>
 <br>
