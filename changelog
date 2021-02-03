@@ -1,12 +1,2 @@
 [README]
-  Siglas padronizadas em 3 dígitos;
-  Disciplinas ordenadas alfabeticamente;
-  Alteração do padrão de prefixos dos nomes dos arquivos de yyyymmdd para yymmdd;
-
-[changelog]
-  Arquivo para anotações das alterações para uso no commit -F;
-
-[all dirs]
-  Renomeados a pasta e o arquivo de horário para padrão do repositório para facilitar a organização e busca;
-    diretório em minúsculas e yymmdd-nome_do_arquivo.ext;
-  Removidas as extensões de arquivos .txt;
+  Identificação do repositório.
