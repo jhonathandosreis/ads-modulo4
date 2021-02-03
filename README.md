@@ -4,7 +4,6 @@ REPOSITÓRIO DE MATÉRIAS
 </h1>
     <h2 align="center">
     FACULDADE SENAI FATESG
-        
     </h2>
 <h4 align="center">
   Análise e Desenvolvimento de Sistemas - Turma 2019/2
