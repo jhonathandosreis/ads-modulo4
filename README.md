@@ -11,7 +11,7 @@ REPOSITÓRIO DE MATÉRIAS
 
 <p align="center">
   <a href="https://github.com/jhonathandosreis">
-    <img alt="jhonathandosreis" src="https://img.shields.io/badge/Jhonathan-GitHub-red">
+    <img alt="jhonathandosreis" src="https://img.shields.io/badge/Jhonathan-GitHub-blu">
   </a>
 </p>
 <br>
