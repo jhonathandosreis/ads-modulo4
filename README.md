@@ -11,7 +11,7 @@ REPOSITÓRIO DE MATÉRIAS
 
 <p align="center">
   <a href="https://github.com/Viniciusalopes">
-    <img alt="Viniciusalopes" src="https://img.shields.io/badge/Viniciusalopes-Tecnologia-blue">
+    <img alt="Viniciusalopes" src="https://img.shields.io/badge/Viniciusalopes-Tecnologia-red">
   </a>
 </p>
 <br>
