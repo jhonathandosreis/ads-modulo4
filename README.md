@@ -27,18 +27,18 @@ Repositório destinado as matérias do semestre
 Cada diretório no repositório é um acrônimo do nome da disciplina.
 
 ```
-dsw  -> Desenvolvimento de Sistemas para Web
-dsd  -> Desenvolvimento de Sistemas Distribuídos
-ts   -> Teste de Software
-ps1  -> Projeto de Software 1
-te   -> Tecnologias Emergentes (Optativa)
-mcs  -> Manutenção e Configuração de Software
-gbd  -> Gerenciamento de Banco de Dados
-pds1 -> Processo de Desenvolvimento de Software 1
-ihm  -> Interface Homem Computador
+dsd -> Desenvolvimento de Sistemas Distribuídos
+dsw -> Desenvolvimento de Sistemas para Web
+gbd -> Gerenciamento de Banco de Dados
+ihc -> Interface Homem Computador
+mcs -> Manutenção e Configuração de Software
+pds -> Processo de Desenvolvimento de Software 1
+ps1 -> Projeto de Software 1
+tem -> Tecnologias Emergentes (Optativa)
+tsw -> Teste de Software
 
 ```
- Os prefixos dos nomes dos arquivos de cada diretório são a data da aula ou da produção do documento, no formato yyyymmdd. Caso necessário, poderão existir subdiretorios com nomes de assuntos e/ou atividades específicas. 
+ Os prefixos dos nomes dos arquivos de cada diretório são a data da aula ou da produção do documento, no formato yymmdd. Caso necessário, poderão existir subdiretorios com nomes de assuntos e/ou atividades específicas. 
 
 ---
 ### HORÁRIOS DE AULAS
@@ -47,8 +47,8 @@ ihm  -> Interface Homem Computador
 +-------------------------------------------------+
 | SEGUNDA |  TERÇA  | QUARTA  | QUINTA  |  SEXTA  |
 +-------------------------------------------------+
-|   dsw   |   dsd   |   ts   |   ps1    |   te    |
+|   dsw   |   dsd   |   tsw   |   ps1   |   tem   |
 +-------------------------------------------------+
-|   dsw   |   mcs   |   gbd  |   pds1   |  ihm    |
+|   dsw   |   mcs   |   gbd   |   pds   |   ihm   |
 +-------------------------------------------------+
 ```
