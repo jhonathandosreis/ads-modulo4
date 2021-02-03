@@ -6,7 +6,7 @@ REPOSITÓRIO DE MATÉRIAS
     FACULDADE SENAI FATESG
     </h2>
 <h4 align="center">
-Repositório destinado as matérias do semestre
+  Análise e Desenvolvimento de Sistemas - Turma 2019/2
 </h4>
 
 <p align="center">
