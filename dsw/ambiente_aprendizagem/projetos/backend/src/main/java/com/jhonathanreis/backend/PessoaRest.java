@@ -34,7 +34,7 @@ public class PessoaRest {
 	}
 	
 	@PutMapping
-	public void put(@RequestBody Pessoa pessoa) {
-		pessoaDao.save(pessoa);
+	public Pessoa put(@RequestBody Pessoa pessoa) {
+		return pessoaDao.save(pessoa);
 	}
 }
