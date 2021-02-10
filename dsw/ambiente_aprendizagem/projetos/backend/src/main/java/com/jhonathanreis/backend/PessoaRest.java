@@ -33,7 +33,7 @@ public class PessoaRest {
 		pessoaDao.delete(pessoa);
 	}
 	
-	@PutMapping
+	@PutMapping // Retorno add
 	public Pessoa put(@RequestBody Pessoa pessoa) {
 		return pessoaDao.save(pessoa);
 	}
