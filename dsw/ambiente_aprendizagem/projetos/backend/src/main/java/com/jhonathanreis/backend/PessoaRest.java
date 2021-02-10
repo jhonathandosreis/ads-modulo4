@@ -28,9 +28,9 @@ public class PessoaRest {
 		pessoaDao.save(pessoa);
 	}
 	
-	@DeleteMapping
-	public void delete(@RequestBody Pessoa pessoa) {
-		pessoaDao.delete(pessoa);
+	@DeleteMapping("/{id}")
+	public void delete(Long id) {
+		pessoaDao.deleteById(id);
 	}
 	
 	@PutMapping 
