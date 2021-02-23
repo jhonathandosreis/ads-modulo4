@@ -1,4 +1,4 @@
-package com.jhonathanreis.backend;
+package com.jhonathanreis.backend.rest;
 
 import java.util.List;
 
@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.jhonathanreis.backend.dao.PessoaDao;
+import com.jhonathanreis.backend.entidade.Pessoa;
 
 @RestController
 @RequestMapping("/pessoa")
