@@ -27,7 +27,15 @@ public class Turma {
 		return nome;
 	}
 
-	public void setNome(String nome) {
+	public void setNome(String nome) throws Exception {
+		
+		if (nome == null) {
+			throw new Exception("Turma inválida.");
+		}
+		if (nome.isEmpty() || nome.length() < 5) {
+			throw new Exception("Turma inválida.");
+		}
+		
 		this.nome = nome;
 	}
 }

@@ -26,7 +26,15 @@ public class Pessoa {
 		return nome;
 	}
 
-	public void setNome(String nome) {
+	public void setNome(String nome) throws Exception {
+		
+		if (nome == null) {
+			throw new Exception("Nome inválido.");
+		}
+		if (nome.isEmpty() || nome.length() < 5) {
+			throw new Exception("Nome inválido.");
+		}
+		
 		this.nome = nome;
 	}
 }

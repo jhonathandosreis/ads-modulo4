@@ -26,4 +26,16 @@ public class Disciplina {
 	public String getNome() {
 		return nome;
 	}
+
+	public void setNome(String nome) throws Exception {
+		
+		if (nome == null) {
+			throw new Exception("Disciplina inválida.");
+		}
+		if (nome.isEmpty() || nome.length() < 5) {
+			throw new Exception("Disciplina inválida.");
+		}
+		
+		this.nome = nome;
+	}
 }
