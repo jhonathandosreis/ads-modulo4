@@ -1,0 +1,5 @@
+package com.jhonathanreis.backend.rest;
+
+public class TurmaRest {
+
+}

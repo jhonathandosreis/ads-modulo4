@@ -1,0 +1,5 @@
+package com.jhonathanreis.backend.dao;
+
+public class CursoDao {
+
+}
