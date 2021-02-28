@@ -14,6 +14,13 @@ public class Curso {
 	private long id;
 	private String nome;
 	
+    public Curso() {
+    }
+
+    public Curso(Long id, String nome) {
+        this.id = id;
+        this.nome = nome;
+    }
 	
 	public String getNome() {
 		return nome;

@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 
 @Entity
 public class Turma {
@@ -14,7 +15,20 @@ public class Turma {
 	private long id;
 	
 	private String nome;
+	
+	@ManyToOne
+	private Curso curso;
 
+	public Turma() {
+    }
+
+    public Turma(Long id, String nome, Curso curso) {
+        this.id = id;
+        this.nome = nome;
+        this.curso = curso;
+
+    }
+	
 	public long getId() {
 		return id;
 	}
@@ -38,4 +52,13 @@ public class Turma {
 		
 		this.nome = nome;
 	}
+
+	public Curso getCurso() {
+		return curso;
+	}
+
+	public void setCurso(Curso curso) {
+		this.curso = curso;
+	}
+	
 }

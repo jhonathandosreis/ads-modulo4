@@ -19,6 +19,15 @@ public class MatriculaDisciplinaPessoa {
 	@ManyToOne
 	private Pessoa pessoa;
 
+    public MatriculaDisciplinaPessoa() {
+    }
+
+    public MatriculaDisciplinaPessoa(Long id, Pessoa pessoa, Disciplina disciplina) {
+        this.id = id;
+        this.pessoa = pessoa;
+        this.disciplina = disciplina;
+    }
+	
 	public long getId() {
 		return id;
 	}
