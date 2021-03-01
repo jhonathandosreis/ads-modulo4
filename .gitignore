@@ -26,3 +26,9 @@ hs_err_pid*
 # Custom
 dsw/ambiente_aprendizagem/projetos/backend/src/main/resources/application.properties
 dsw/ambiente_aprendizagem/projetos/.metadata/
+dsw/ambiente_aprendizagem/projetos/backend/.classpath
+dsw/ambiente_aprendizagem/projetos/backend/.mvn/
+dsw/ambiente_aprendizagem/projetos/backend/.project
+dsw/ambiente_aprendizagem/projetos/backend/.settings/
+dsw/ambiente_aprendizagem/projetos/backend/bin/
+dsw/ambiente_aprendizagem/projetos/backend/target/
