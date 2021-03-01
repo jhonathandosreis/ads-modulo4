@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.jhonathanreis.backend.dao.TurmaDao;
-import com.jhonathanreis.backend.entidade.Turma;
+import com.jhonathanreis.backend.entity.Turma;
 
 @RestController
 @RequestMapping("/turma")

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.jhonathanreis.backend.dao.MatriculaDisciplinaPessoaDao;
-import com.jhonathanreis.backend.entidade.MatriculaDisciplinaPessoa;
+import com.jhonathanreis.backend.entity.MatriculaDisciplinaPessoa;
 
 @RestController
 @RequestMapping("/matr_dis_pess")

@@ -1,41 +1,26 @@
-package com.jhonathanreis.backend.entidade;
+package com.jhonathanreis.backend.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.ManyToOne;
 
 @Entity
-public class Turma {
-	
+public class Curso {
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	
 	private long id;
-	
 	private String nome;
 	
-	@ManyToOne
-	private Curso curso;
-	
-	public Turma() {
+    public Curso() {
     }
 
-    public Turma(Long id, String nome, Curso curso) {
+    public Curso(Long id, String nome) {
         this.id = id;
         this.nome = nome;
-        this.curso = curso;
-
     }
-	
-	public long getId() {
-		return id;
-	}
-
-	public void setId(long id) {
-		this.id = id;
-	}
 	
 	public String getNome() {
 		return nome;
@@ -44,21 +29,21 @@ public class Turma {
 	public void setNome(String nome) throws Exception {
 		
 		if (nome == null) {
-			throw new Exception("Turma inválida.");
+			throw new Exception("Curso inválido.");
 		}
 		if (nome.isEmpty() || nome.length() < 5) {
-			throw new Exception("Turma inválida.");
+			throw new Exception("Curso inválido.");
 		}
 		
 		this.nome = nome;
 	}
 
-	public Curso getCurso() {
-		return curso;
+	public long getId() {
+		return id;
 	}
 
-	public void setCurso(Curso curso) {
-		this.curso = curso;
+	public void setId(long id) {
+		this.id = id;
 	}
 	
 }

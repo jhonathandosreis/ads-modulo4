@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.jhonathanreis.backend.dao.PessoaDao;
-import com.jhonathanreis.backend.entidade.Pessoa;
+import com.jhonathanreis.backend.entity.Pessoa;
 
 @RestController
 @RequestMapping("/pessoa")

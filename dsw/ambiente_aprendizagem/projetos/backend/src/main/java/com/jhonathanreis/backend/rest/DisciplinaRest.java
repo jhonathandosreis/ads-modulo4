@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.jhonathanreis.backend.dao.DisciplinaDao;
-import com.jhonathanreis.backend.entidade.Disciplina;
+import com.jhonathanreis.backend.entity.Disciplina;
 
 @RestController
 @RequestMapping("disciplina")
