@@ -21,5 +21,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-ads-modulo4/dsw/ambiente_aprendizagem/projetos/backend/src/main/resources/application.properties
-ads-modulo4/dsw/ambiente_aprendizagem/projetos/backend/src/main/java/com/jhonathanreis/backend/BackendApplication.java
+dsw/ambiente_aprendizagem/projetos/backend/src/main/resources/application.properties
+dsw/ambiente_aprendizagem/projetos/backend/src/main/java/com/jhonathanreis/backend/BackendApplication.java
+dsw/ambiente_aprendizagem/projetos/backend/.classpath
+dsw/ambiente_aprendizagem/projetos/backend/.project
+dsw/ambiente_aprendizagem/projetos/backend/.settings/
+dsw/ambiente_aprendizagem/projetos/backend/target/
