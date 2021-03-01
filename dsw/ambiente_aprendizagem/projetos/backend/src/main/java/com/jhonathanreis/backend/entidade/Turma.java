@@ -18,7 +18,7 @@ public class Turma {
 	
 	@ManyToOne
 	private Curso curso;
-
+	
 	public Turma() {
     }
 
