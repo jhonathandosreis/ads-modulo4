@@ -48,21 +48,4 @@ public class Swagger {
 				.version("2.0")
 				.build();
 	}
-
-	public String getSwaggerPath() {
-		return swaggerPath;
-	}
-
-	public void setSwaggerPath(String swaggerPath) {
-		this.swaggerPath = swaggerPath;
-	}
-
-	public String getNome() {
-		return nome;
-	}
-
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
-
 }
