@@ -26,7 +26,6 @@ public class Turma {
         this.id = id;
         this.nome = nome;
         this.curso = curso;
-
     }
 	
 	public long getId() {
