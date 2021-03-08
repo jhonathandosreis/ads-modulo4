@@ -1,0 +1,5 @@
+package com.jhonathanreis.backend.conf;
+
+public class Swagger {
+
+}
