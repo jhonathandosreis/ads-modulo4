@@ -24,8 +24,6 @@ hs_err_pid*
 
 
 # Custom
-dsw/ambiente_aprendizagem/projetos/backend/src/main/resources/application.properties
-
 .classpath
 .mvn/
 .project
@@ -34,3 +32,4 @@ bin/
 target/
 src/test/
 src/main/java/com/jhonathanreis/backend/BackendApplication.java
+dsw/ambiente_aprendizagem/projetos/backend/src/main/resources/application.properties
