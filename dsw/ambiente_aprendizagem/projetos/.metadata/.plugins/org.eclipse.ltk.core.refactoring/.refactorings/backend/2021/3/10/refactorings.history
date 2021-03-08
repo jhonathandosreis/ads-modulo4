@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.jhonathanreis.backend.entidade&apos; to &apos;com.jhonathanreis.backend.entity&apos;&#x0D;&#x0A;- Original project: &apos;backend&apos;&#x0D;&#x0A;- Original element: &apos;backend/src/main/java/com.jhonathanreis.backend.entidade&apos;&#x0D;&#x0A;- Renamed element: &apos;backend/src/main/java/com.jhonathanreis.backend.entity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jhonathanreis.backend.entidade&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jhonathanreis.backend.entidade" name="com.jhonathanreis.backend.entity" qualified="false" references="true" stamp="1614624690426" textual="false" version="1.0"/>
-</session>
