@@ -25,12 +25,12 @@ hs_err_pid*
 
 # Custom
 dsw/ambiente_aprendizagem/projetos/backend/src/main/resources/application.properties
-dsw/ambiente_aprendizagem/projetos/.metadata/
-dsw/ambiente_aprendizagem/projetos/backend/.classpath
-dsw/ambiente_aprendizagem/projetos/backend/.mvn/
-dsw/ambiente_aprendizagem/projetos/backend/.project
-dsw/ambiente_aprendizagem/projetos/backend/.settings/
-dsw/ambiente_aprendizagem/projetos/backend/bin/
-dsw/ambiente_aprendizagem/projetos/backend/target/
-dsw/ambiente_aprendizagem/projetos/backend/src/test/
-dsw/ambiente_aprendizagem/projetos/backend/src/main/java/com/jhonathanreis/backend/BackendApplication.java
+
+backend/.classpath
+backend/.mvn/
+backend/.project
+backend/.settings/
+backend/bin/
+backend/target/
+backend/src/test/
+backend/src/main/java/com/jhonathanreis/backend/BackendApplication.java
